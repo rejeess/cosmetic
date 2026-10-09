@@ -9,7 +9,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>{children}</body>
-<script src="https://staging.3beeez.com/widget-script?installToken=287b854bdfb019ad9921dfa5792b23786baf76cc&position=bottom-right" async></script>
+<script src="https://staging.3beeez.com/widget-script?installToken=70b2b2a540c6174a0780094bd6899aff474d451c&position=bottom-right" async></script>
     </html>
   );
 }
